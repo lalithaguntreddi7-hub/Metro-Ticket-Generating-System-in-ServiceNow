@@ -175,7 +175,7 @@ This project is provided as-is for metro transportation system implementations.
 
 ## Authors & Contributors
 
-**Project Lead**: Akhilesh
+**Project Lead**:Lalitha
 
 ## Acknowledgments
 
